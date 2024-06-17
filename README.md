@@ -1,4 +1,4 @@
-Sure, here is a README file for your Magento project:
+Here's an updated README file for your Magento project on GitHub:
 
 ---
 
@@ -6,37 +6,38 @@ Sure, here is a README file for your Magento project:
 
 ## Overview
 
-This project automates the testing of various functionalities on the Magento Software Testing Board's Luma website using Selenium, TestNG, data-driven testing with Excel files, and the Page Object Model (POM) design pattern. The functionalities include registration, sign-in, password change, adding addresses, adding products to the wishlist, and adding products to the cart.
+This project automates the testing of various functionalities on the Magento Software Testing Board's Luma website using Selenium, TestNG, DataProvider, and the Page Object Model (POM) design pattern. The functionalities include registration, sign-in, password change, adding addresses, adding products to the wishlist, and adding products to the cart.
 
 ## Project Structure
 
 - **src/main/java**: Contains the main Java files for the project.
   - **pages**: Page Object Model classes representing the web pages.
   - **tests**: Test classes containing the test methods.
-  - **utils**: Utility classes for data providers, Excel reading, etc.
 
 - **src/test/resources**: Contains the test resources.
-  - **testdata**: Excel files containing test data.
+  - **testdata**: Test data files.
+
+- **pom.xml**: Maven configuration file.
+- **testng.xml**: TestNG configuration file.
 
 ## Tools and Technologies
 
+- **Java**: Programming language (JDK 21).
 - **Selenium WebDriver**: For browser automation.
-- **Java**: Programming language.
 - **TestNG**: Testing framework.
-- **Apache POI**: For reading and writing Excel files.
 - **POM (Page Object Model)**: Design pattern for enhancing test maintenance and reducing code duplication.
-- **Eclipse**: IDE for development.
+- **Eclipse IDE**: Integrated development environment.
+- **Maven**: Dependency management tool.
 
 ## Getting Started
 
 ### Prerequisites
 
-- Java JDK 8 or higher
+- Java JDK 21
 - Selenium WebDriver
 - TestNG
-- Apache POI
 - Eclipse IDE
-- Maven (for dependency management)
+- Maven
 
 ### Installation
 
@@ -85,7 +86,7 @@ This project automates the testing of various functionalities on the Magento Sof
 
 ## Data-Driven Testing
 
-Test data for the scenarios are provided using Excel files located in the `src/test/resources/testdata` directory. The data provider methods read the data from these Excel files to supply it to the test methods.
+Test data for the scenarios are provided using DataProvider methods. The data provider methods supply the test data to the test methods.
 
 ## Contributing
 
@@ -102,7 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Contact
 
-For any inquiries or support, please contact Syed Salma at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries or support, please contact Syed Salma at [your.email@example.com](syedsalma42267@gmail.com).
 
 ---
 

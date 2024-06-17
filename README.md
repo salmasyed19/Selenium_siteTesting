@@ -97,14 +97,6 @@ Test data for the scenarios are provided using DataProvider methods. The data pr
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-## Contact
 
-For any inquiries or support, please contact Syed Salma at [your.email@example.com](syedsalma42267@gmail.com).
-
----
-
-Feel free to adjust the links, email, and any other details to match your specific project setup and personal information.

@@ -103,7 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Contact
 
-For any inquiries or support, please contact Syed Salma at [your.email@example.com](syedsalma42267@gmail.com).
+For any inquiries or support, please contact Syed Salma at [syedsalma42267@gmail.com](syedsalma42267@gmail.com).
 
 ---
 

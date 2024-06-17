@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-16T22:59:59 IST" name="Default suite" finished-at="2024-06-16T23:00:36 IST" duration-ms="36992">
+    <groups>
+    </groups>
+    <test started-at="2024-06-16T22:59:59 IST" name="Default test" finished-at="2024-06-16T23:00:36 IST" duration-ms="36992">
+      <class name="magento.p1.Tests.AddProductToCartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:magento.p1.Tests.AddProductToCartTest@3cd3e762]" started-at="2024-06-16T22:59:59 IST" name="setUp" finished-at="2024-06-16T23:00:04 IST" duration-ms="5403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddProductToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:magento.p1.Tests.AddProductToCartTest@3cd3e762]" started-at="2024-06-16T23:00:04 IST" name="testAddProductToCart" data-provider="productData" finished-at="2024-06-16T23:00:10 IST" duration-ms="6172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[salma8@example.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[salmaMittu#19]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Selene Yoga Hoodie]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[168]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[57]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddProductToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:magento.p1.Tests.AddProductToCartTest@3cd3e762]" started-at="2024-06-16T23:00:10 IST" name="tearDown" finished-at="2024-06-16T23:00:11 IST" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:magento.p1.Tests.AddProductToCartTest@3cd3e762]" started-at="2024-06-16T23:00:11 IST" name="setUp" finished-at="2024-06-16T23:00:16 IST" duration-ms="5579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddProductToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:magento.p1.Tests.AddProductToCartTest@3cd3e762]" started-at="2024-06-16T23:00:16 IST" name="testAddProductToCart" data-provider="productData" finished-at="2024-06-16T23:00:23 IST" duration-ms="6581" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[salma88@example.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[salmaMittu#19]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Cassius Sparring Tank]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[167]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddProductToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:magento.p1.Tests.AddProductToCartTest@3cd3e762]" started-at="2024-06-16T23:00:23 IST" name="tearDown" finished-at="2024-06-16T23:00:23 IST" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:magento.p1.Tests.AddProductToCartTest@3cd3e762]" started-at="2024-06-16T23:00:23 IST" name="setUp" finished-at="2024-06-16T23:00:29 IST" duration-ms="5311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddProductToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:magento.p1.Tests.AddProductToCartTest@3cd3e762]" started-at="2024-06-16T23:00:29 IST" name="testAddProductToCart" data-provider="productData" finished-at="2024-06-16T23:00:35 IST" duration-ms="6563" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mittu63@example.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[salmaMittu#19]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Zeppelin Yoga Pant]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[176]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[53]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddProductToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:magento.p1.Tests.AddProductToCartTest@3cd3e762]" started-at="2024-06-16T23:00:35 IST" name="tearDown" finished-at="2024-06-16T23:00:36 IST" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- magento.p1.Tests.AddProductToCartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

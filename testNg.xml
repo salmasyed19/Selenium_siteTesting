@@ -1,0 +1,39 @@
+<!DOCTYPE suite SYSTEM "file:///C:/Users/Syed%20Salma/Downloads/testng-1.0.dtd">
+
+
+<suite name="p1 Test Suite">
+    <test name="RegistrationTest">
+        <classes>
+            <class name="magento.p1.Tests.RegistrationTest"/>
+        </classes>
+    </test>
+    
+    <test name="SignInTest">
+        <classes>
+            <class name="magento.p1.Tests.SignInTest"/>
+        </classes>
+    </test>   
+    
+    <test name="AddAddressTest">
+        <classes>
+            <class name="magento.p1.Tests.AddAddressTest"/>
+        </classes>
+    </test>
+    
+    <test name="AddToWishlistTest">
+        <classes>
+            <class name="magento.p1.Tests.AddToWishlistTest"/>
+        </classes>
+    </test>
+    
+    <test name="AddToCartTest">
+        <classes>
+            <class name="magento.p1.Tests.AddProductToCartTest"/>
+        </classes>
+    </test>
+     <test name="ChangePasswordTest">
+        <classes>
+            <class name="magento.p1.Tests.ChangePasswordTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,7 +1,6 @@
 
 # Magento Automation Project
 
-## Overview
 
 This project automates the testing of various functionalities on the Magento Software Testing Board's Luma website using Selenium, TestNG, DataProvider, and the Page Object Model (POM) design pattern. The functionalities include registration, sign-in, password change, adding addresses, adding products to the wishlist, and adding products to the cart.
 

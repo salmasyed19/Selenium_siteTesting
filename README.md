@@ -1,4 +1,3 @@
----
 
 # Magento Automation Project
 
